@@ -102,7 +102,7 @@ publish
 sql
 TestResults
 *.Cache
-ClientBin
+ClientBin //ClientBin
 stylecop.*
 ~$*
 *.dbmdl
