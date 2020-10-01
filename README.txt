@@ -1,5 +1,5 @@
 README.txt
 
-	A simple calculator application in java using swing/awt.
+	An amazing calculator which was made using java by importing swing/awt.
 	
 	The main class is ClacLauncher
