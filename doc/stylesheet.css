@@ -96,7 +96,7 @@ Document title and Copyright styles
     background-position:left top;
     background-repeat:no-repeat;
     color:#ffffff;
-    padding:8px;
+    padding:10px;
     width:5em;
     font-weight:bold;
 }
@@ -199,7 +199,7 @@ Page header and footer styles
     margin:10px 0;
 }
 .subTitle {
-    margin:5px 0 0 0;
+    margin:10px 0 0 0;
 }
 .header ul {
     margin:0 0 25px 0;
